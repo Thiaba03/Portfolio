@@ -1,14 +1,16 @@
 {
   "name": "portfolio",
   "private": true,
+  "homepage": "https://ton-username.github.io/nom-du-repo",
   "version": "0.0.0",
   "type": "module",
+  
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
-  },
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+},
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@gsap/react": "^2.1.2",
@@ -17,6 +19,7 @@
     "@tailwindcss/vite": "^4.0.7",
     "@types/three": "^0.173.0",
     "cobe": "^0.6.3",
+    "gh-pages": "^6.3.0",
     "maath": "^0.10.8",
     "motion": "^12.4.5",
     "react": "^19.0.0",
