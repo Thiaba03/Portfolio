@@ -9,7 +9,7 @@ export const myProjects = [
     fullDesc: "Une solution innovante connectant les agriculteurs au marché B2B. Intègre de la Computer Vision pour le diagnostic des cultures et des outils d'optimisation basés sur l'intelligence artificielle.",
     logo: "/assets/logos/react.svg", 
     href: "https://github.com/Thiaba03/projet-data",
-    spotlight: "/assets/projects/agri.jpg",
+    spotlight: "/assets/agri.jpg",
     tags: [
       { name: "React Native" },
       { name: "Laravel" },
@@ -24,7 +24,7 @@ export const myProjects = [
     fullDesc: "Plateforme intelligente de gestion d'avis clients. Utilise le Natural Language Processing (NLP) pour générer des scores de satisfaction et analyser les tendances thématiques automatiquement.",
     logo: "/assets/logos/laravel.svg",
     href: "https://github.com/votre-utilisateur/sentiment-ai-laravel",
-    spotlight: "/assets/projects/img2.jpg",
+    spotlight: "/assets/img2.jpg",
     tags: [
       { name: "Laravel 12" },
       { name: "Vue.js 3" },
@@ -39,7 +39,7 @@ export const myProjects = [
     fullDesc: "Projet de recherche et implémentation d'algorithmes Support Vector Machines (SVM). Inclut le prétraitement des données, la réduction de dimensionnalité et l'optimisation des hyperparamètres.",
     logo: "/assets/logos/python.svg",
     href: "Projet svm.pdf",
-    spotlight: "/assets/projects/img4.jpg",
+    spotlight: "/assets/img4.jpg",
     tags: [
       { name: "Python" },
       { name: "Scikit-learn" },
@@ -54,7 +54,7 @@ export const myProjects = [
     fullDesc: "Analyse approfondie de l'évolution des marchés financiers mondiaux et de l'impact disruptif des cryptomonnaies. Réalisé avec Python pour la visualisation de données complexes.",
     logo: "/assets/logos/python.svg",
     href: "Financier & Évolution des Monnaies Numériques Proget python.pdf",
-    spotlight: "/assets/projects/img5.jpg",
+    spotlight: "/assets/img5.jpg",
     tags: [
       { name: "Python" },
       { name: "Financial Analysis" },
@@ -69,7 +69,7 @@ export const myProjects = [
     fullDesc: "Gestion et optimisation d'une plateforme d'hébergement collaborative. Application rigoureuse des cycles Agile, planification par diagrammes de Gantt et suivi de production sous Jira.",
     logo: "/assets/logos/jira.svg",
     href: "rbnb.pdf",
-    spotlight: "/assets/projects/img6.jpg",
+    spotlight: "/assets/img6.jpg",
     tags: [
       { name: "Jira" },
       { name: "Agile" },
